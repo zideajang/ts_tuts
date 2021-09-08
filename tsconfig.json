@@ -1,0 +1,18 @@
+{
+    "compilerOptions": {
+      "lib":[
+        "es2015",
+        "dom"
+      ],
+      "target": "es2015",
+      "module": "ESNext",
+      "sourceMap": true,
+      "strict":true,
+      "noUncheckedIndexedAccess": true,
+      "strictNullChecks": false,
+    //   "strictNullChecks":true,
+    //   "strictPropertyInitialization":true,
+    },
+    // "exclude": ["src/utility_types/demo_02.ts","src/utility_types/demo_01.ts"],
+    "files": ["src/narrowing/demo_01.ts",]
+}

@@ -1,0 +1,1 @@
+module 概念来自于 ES6 而 namespace 则来自 Typescript 本身
